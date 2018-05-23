@@ -1,5 +1,6 @@
 [general]
 [kp1]
+ecom-web01
 ecom-jenkins01
 [mw]
 testvm02
