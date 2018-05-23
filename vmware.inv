@@ -1,4 +1,7 @@
 [general]
 [kp1]
+ecom-jenkins01
 [mw]
+testvm02
+testvm01
 [ib]
